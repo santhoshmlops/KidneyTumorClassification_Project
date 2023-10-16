@@ -5,6 +5,4 @@
 
     conda create -n kidney python=3.10 -y
 
-
-
     conda activate kidney
