@@ -1,1 +1,1 @@
-# KidneyTumorClassification_Project
+# Kidney Tumor Classification Project
