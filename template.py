@@ -48,4 +48,4 @@ for filepath in list_of_files:
     else:
         logging.info(f"{filename} already exists")
 
-logging.info("Project Structure is completed") 
+logging.info("Project Structure is completed")
